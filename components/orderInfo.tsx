@@ -48,7 +48,7 @@ export default function orderInfo() {
 
       </div>
     </div>
-    <div className="shadow-lg flex flex-col text-[#202A44] p-[18px] pt-12 absolute w-[200px] top-[10rem]  ml-[58%]  bg-[white] opacity-[0.9] h-[300px] mr-1rem rounded-2xl">
+    <div className="shadow-lg flex flex-col text-[#202A44] p-[18px] pt-12 absolute w-[200px] top-[10rem] right-[17%]   bg-[white] opacity-[0.9] h-[300px] mr-1rem rounded-2xl">
 <div className="flex justify-between">
 <Image
               src={chip}
