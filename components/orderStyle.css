@@ -1,0 +1,16 @@
+
+
+
+.circle {
+    width: 33px;
+    height: 33px;
+    background: white;
+    border-radius: 50%
+  }
+  .dotted{
+    border: none;
+    border-top: 1px dashed rgb(181, 176, 176);
+    height: 1px;
+    width: 100%;
+  }
+
